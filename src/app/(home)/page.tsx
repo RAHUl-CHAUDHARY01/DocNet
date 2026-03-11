@@ -36,7 +36,7 @@ const Home = () => {
 
       {/* Footer */}
       <footer className="bg-gray-100 text-center py-4 border-t text-sm text-gray-600">
-        Made with ❤️ by Rahul • All Rights Reserved
+        Made with ❤️ by Devansh • All Rights Reserved
       </footer>
     </div>
   );
